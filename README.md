@@ -1,2 +1,3 @@
 # ltzXiaoYanMo.github.io
-test
+
+你知道吗？这其实就是个网站，主要是给angon by hexo用的！
